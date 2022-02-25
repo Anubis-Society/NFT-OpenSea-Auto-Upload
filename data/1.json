@@ -1,0 +1,28 @@
+{
+  "nft": [
+    {
+      "file_path": "/Users/username/Documents/GitHub/Nft-OpenSea-Auto-Upload/build/images/1.png",
+      "nft_name": "Anubis Card #1",
+      "external_link": "https://twitter.com/AnubisSociety",
+      "description": "One of Anubis card",
+      "properties": [
+        "BG_Dark",
+        "ScratchedGold2",
+        "SideScrapPart2",
+        "HandBone"
+      ],
+      "collection": "Anubis Cards",
+      "dna": "6a5a9c8d1138725200a784a0a5cff0ebf90d8bce",
+      "edition": 1,
+      "unlockable_content": false,
+      "explicit_and_sensitive_content": false,
+      "supply": 1,
+      "blockchain": "Polygon",
+      "sale_type": "Fixed Price",
+      "price": 0.009,
+      "duration": "12 months",
+      "specific_buyer": false,
+      "quantity": 1
+    }
+  ]
+}
